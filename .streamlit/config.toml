@@ -1,0 +1,4 @@
+[theme]
+backgroundColor="#ffffff"
+[server]
+headless = true

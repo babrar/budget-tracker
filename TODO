@@ -1,0 +1,3 @@
+fix bugs that pop up when no entries have been added for the current month
+add a flow to generaet dataframe
+store selected month in a global context

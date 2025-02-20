@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore all __pycache__ directories
+__pycache__/
+
+.venv
+.env
+token.json
+credentials/
+.vscode
+.DS_Store
+playground/
